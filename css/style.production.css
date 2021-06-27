@@ -83,21 +83,23 @@ h3 {
 
 a {
 	color:#357b70;
+
 }
 
 a:visited {
 	color: #357b70;
+
 }
 
 a:hover, a:focus {
 	text-decoration: none;
-  color:green;
+  color:rgb(9, 240, 220);
 }
 
 a:active {
-	color: #357b70;
-
+	color: #d8e7e5;
 }
+
 ul{
 	list-style: none;
 }
@@ -119,7 +121,7 @@ ul{
 }
 
 .button__secondary {
-	background-color:rgb(180, 215, 245), rgb(110, 164, 173), grey;
+	background-color:rgb(180, 215, 245), rgb(12, 159, 185), rgb(245, 237, 237);
 	color:#fff;
 }
 
