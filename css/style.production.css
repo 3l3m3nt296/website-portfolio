@@ -129,8 +129,7 @@ ul{
 
 .button {
   border: none;
-  display: inline-block;
-  font-family: inherit;
+  margin-left: 3%;
   background-color:#00008B;
   color:#8C8C8C;
   text-decoration: none;
