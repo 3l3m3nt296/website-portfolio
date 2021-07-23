@@ -220,9 +220,24 @@ button {
 		min-height: auto;
 		margin: 0;
 	}
-  video{
-    width: 30%;
-  }
+.video-container{
+  position:relative;
+  overflow: hidden;
+  padding-top: 56.25%;
+  border: 3px solid rgb(21, 17, 238);
+  width: 50%;
+  height: 40%;
+  margin-left: 25%;
+}
+.video-container iframe {
+    position:absolute;
+    top:0;
+    left: 0%;
+    width: 100%;
+    height:100% ;
+
+    
+}
 
 }
 .sun {
