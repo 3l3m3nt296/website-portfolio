@@ -220,6 +220,9 @@ button {
 		min-height: auto;
 		margin: 0;
 	}
+  video{
+    width: 30%;
+  }
 
 }
 .sun {
