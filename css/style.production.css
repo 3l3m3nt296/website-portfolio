@@ -224,10 +224,8 @@ button {
   position:relative;
   overflow: hidden;
   padding-top: 56.25%;
-  border: 3px solid rgb(21, 17, 238);
-  width: 50%;
-  height: 40%;
-  margin-left: 25%;
+  border: 5px solid rgb(21, 17, 238);
+
 }
 .video-container iframe {
     position:absolute;
