@@ -74,10 +74,11 @@ background secundary Color:(lightgray).(gray)#aaaaaa,(solid blue)#1B1469
   h2 {
     font-size: 24px;
     font-weight: 700px;
+    color: #00008B;
   }
   
   h3 {
-    font-size: 15px;
+    font-size: 17px;
     font-weight: 700px;
   }
   
@@ -100,9 +101,15 @@ background secundary Color:(lightgray).(gray)#aaaaaa,(solid blue)#1B1469
     color: #d8e7e5;
   }
   
+  p {
+    font-size: 18px;
+    color: rgb(26, 11, 238);
+  }
+  
   ul{
     list-style: none;
   }
+
   
   .button {
     border: none;
@@ -124,8 +131,7 @@ background secundary Color:(lightgray).(gray)#aaaaaa,(solid blue)#1B1469
     background-color:rgb(180, 215, 245), rgb(10, 212, 248), rgb(245, 237, 237);
     color:#fff;
   }
-  
-  
+
   
   .button {
     border: none;
@@ -220,6 +226,8 @@ background secundary Color:(lightgray).(gray)#aaaaaa,(solid blue)#1B1469
       min-height: auto;
       margin: 0;
     }
+  
+
   .video-container{
     position:relative;
     overflow: hidden;
@@ -238,6 +246,9 @@ background secundary Color:(lightgray).(gray)#aaaaaa,(solid blue)#1B1469
       height:100% ;
   
       
+  }
+  .pictures img{
+    width: 10%;
   }
   
   }
@@ -344,9 +355,7 @@ background secundary Color:(lightgray).(gray)#aaaaaa,(solid blue)#1B1469
   .page-header{
     font-size: 18px;
   }
-  p {
-    font-size: 14px;
-  }
+
   ul{
   font-size: 13;
   }
