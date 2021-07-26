@@ -149,6 +149,7 @@ ul{
 
 button {
   border: none;
+  margin-left: 2%;
   display: inline-block;
   font-family: inherit;
   background-color:#00008B;
