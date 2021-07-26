@@ -106,6 +106,7 @@ ul{
 
 .button {
   border: none;
+  margin-left: 2%;
   font-family: inherit;
   background-color: #357b70;
   color: rgb(180, 215, 245), rgb(110, 164, 173), grey;
